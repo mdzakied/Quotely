@@ -5,7 +5,7 @@ Aplikasi web untuk mendapatkan random quotes maupun category quotes yang dibuat 
    <img src="https://user-images.githubusercontent.com/87967665/142656087-a21b2870-33a4-4cab-b6b3-f61b3c7bb579.png" border="0" width="350">
 </p>
 
-## cara instal
+## Cara Instal
 
 1. download / clone repo ini kemudian ketik `npm install` di code editor
 2. jalankan perintah `npm start-dev` untuk menjalankan Aplikasinya
