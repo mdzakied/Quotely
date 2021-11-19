@@ -2,7 +2,7 @@
 Aplikasi web untuk mendapatkan random quotes maupun category quotes yang dibuat menggunakan framework layout tailwindcss.
 <p align="left">
 <br>
-   <img src="" border="0" width="350">
+   <img src="https://user-images.githubusercontent.com/87967665/142656087-a21b2870-33a4-4cab-b6b3-f61b3c7bb579.png" border="0" width="350">
 </p>
 
 ## cara instal
