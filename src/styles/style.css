@@ -1,0 +1,7 @@
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.667),rgba(0, 0, 0, 0.667)), url("../img/cube-word.jpg");
+}
+
+.img-mobile {
+    background-image: url("../img/cover-note.png");
+}
