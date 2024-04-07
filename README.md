@@ -16,23 +16,19 @@ Here're some of the project's best features :
 
 <h2>🛠️ Installation Steps :</h2>
 
-<p>1. Prepare database restly with JSON Server</p>
-
-[Repo db_restly](https://github.com/mdzakied/db_restly)
-
-<p>2. Clone Repository</p>
+<p>1. Clone Repository</p>
 
 ```
 git clone https://github.com/mdzakied/Quotely.git
 ```
 
-<p>3. NPM Install</p>
+<p>2. NPM Install</p>
 
 ```
 npm install
 ```
 
-<p>4. Run Project</p>
+<p>3. Run Project</p>
 
 ```
 npm start-dev
