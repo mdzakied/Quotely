@@ -1,25 +1,50 @@
-# Quotely
-Aplikasi web untuk mendapatkan random quotes maupun category quotes yang dibuat menggunakan framework layout tailwindcss.
-<p align="left">
-<br>
-   <img src="https://user-images.githubusercontent.com/87967665/142656087-a21b2870-33a4-4cab-b6b3-f61b3c7bb579.png" border="0" width="350">
-</p>
+<h1 align="center" id="title">Quotely</h1>
 
-## Cara Instal
 
-1. download / clone repo ini kemudian ketik `npm install` di code editor
-2. jalankan perintah `npm start-dev` untuk menjalankan Aplikasinya
+<p align="center" id="description">Quotely is a demo web application for get random quotes and category quotesr.</p>
 
-## Fitur
+<h2>📷 Project Screenshots :</h2>
 
-- Lihat Quotes Random
-- Lihat Quotes Sesuai Dengan Kategori Yang Tersedia
+<img src="https://user-images.githubusercontent.com/87967665/142656087-a21b2870-33a4-4cab-b6b3-f61b3c7bb579.png" border="0" width="350">
 
-## Dibuat menggunakan
+<h2>🧐 Features</h2>
 
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- Tippy.js
-- Webpack
+Here're some of the project's best features :
+
+*   Get Random Quotes
+*   Get Random Quotes by Category
+
+<h2>🛠️ Installation Steps :</h2>
+
+<p>1. Prepare database restly with JSON Server</p>
+
+[Repo db_restly](https://github.com/mdzakied/db_restly)
+
+<p>2. Clone Repository</p>
+
+```
+git clone https://github.com/mdzakied/Quotely.git
+```
+
+<p>3. NPM Install</p>
+
+```
+npm install
+```
+
+<p>4. Run Project</p>
+
+```
+npm start-dev
+```
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project :
+
+*   HTML
+*   CSS
+*   Javascript
+*   Tailwind CSS
+*   Tippy.js
+*   Webpack
